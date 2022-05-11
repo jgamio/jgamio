@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jgamio
 - 👀 I’m interested in e-commerce
-- 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on e-commerce projects
 
 <!---
